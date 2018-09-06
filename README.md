@@ -7,6 +7,7 @@ https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 * Visual Studio 2017 (>= 15.8.3)
 * Latest Service Fabric SDK (>= 3.2.176)
 * If you install Docker CE ensure to use Windows Containers
+* [Service Fabric Explorer](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-visualizing-your-cluster)
 
 # Slides
 * [Azure Overview](https://tom.blob.core.windows.net/azurewinhol/Azure%20Overview.pdf)
@@ -17,10 +18,5 @@ https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 * [API Management](https://tom.blob.core.windows.net/azurewinhol/API%20Management.pdf)
 
 # HoL / Tutorials
-
-### Create and deploy an application with an ASP.NET Core Web API front-end service and a stateful back-end service and deploy it into Service Fabric
-[Tutorial Link](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-dotnet-app)
-
-### Setup Azure DevOps Project (Azure Service Fabric, CI & CD Pipeline)
-[Tutorial Link](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core?toc=%2Fen-us%2Fazure%2Fdevops-project%2Ftoc.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
-
+* Create and deploy an application with an ASP.NET Core Web API front-end service and a stateful back-end service and deploy it into Service Fabric [Tutorial](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-dotnet-app) 
+* Setup Azure DevOps Project (Azure Service Fabric, CI & CD Pipeline) [Tutorial](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core?toc=%2Fen-us%2Fazure%2Fdevops-project%2Ftoc.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
