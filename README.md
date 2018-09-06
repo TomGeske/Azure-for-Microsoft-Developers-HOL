@@ -3,7 +3,7 @@
 ## Prepare your local development environment on Windows for Service Fabric
 https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 
-### Ensure installed:
+### Ensure you installed:
 * Visual Studio 2017 (> 15.8.2)
 * Latest Service Fabric SDK (> 3.2.176)
 * If you install Docker CE ensure to use Windows Containers
