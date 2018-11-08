@@ -4,8 +4,8 @@
 https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 
 ### Ensure you installed:
-* Visual Studio 2017 (>= 15.8.3)
-* Latest Service Fabric SDK (>= [3.2.176](https://tom.blob.core.windows.net/temp/MicrosoftAzure-ServiceFabric-CoreSDK.exe))
+* Visual Studio 2017 (>= 15.8.9)
+* Latest Service Fabric SDK (>= [3.2.187](https://tom.blob.core.windows.net/temp/MicrosoftAzure-ServiceFabric-CoreSDK.exe))
 * If you install Docker CE ensure to use Windows Containers
 * [Service Fabric Explorer](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-visualizing-your-cluster)
 
