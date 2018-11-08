@@ -20,3 +20,4 @@ https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 # HoL / Tutorials
 * Create and deploy an application with an ASP.NET Core Web API front-end service and a stateful back-end service and deploy it into Service Fabric [Tutorial](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-dotnet-app) 
 * Setup Azure DevOps Project (Azure Service Fabric, CI & CD Pipeline) [Tutorial](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core?toc=%2Fen-us%2Fazure%2Fdevops-project%2Ftoc.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
+* Create your first Service Fabric container application on Windows [Tutorial](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-containers)
